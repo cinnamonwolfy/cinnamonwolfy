@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, there!
+I'm pocketlinux32, a random hobbyist programmer, and a student.
 
-<!--
-**pocketlinux32/pocketlinux32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Langs
 
-Here are some ideas to get you started:
+- C/C++ (preferred)
+- Python
+- Javascript
+- Bash
+- TI-BASIC
+- QBasic (first one I learnt)
+- Z80 Assembly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hobbies (apart from programming)
+
+- Playing video games (big surprise, lol)
+- Watching YT videos (mostly the short ones)
+- Drawing (mostly for hobby games)
