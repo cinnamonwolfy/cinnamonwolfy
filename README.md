@@ -1,9 +1,9 @@
 # Hello, there!
-I'm pocketlinux32, a random hobbyist programmer, and a student.
+I'm **pocketlinux32**, a random hobbyist programmer, and a student.
 
 # Langs
 
-- C/C++ (preferred)
+- **C/C++ (preferred)**
 - Python
 - Javascript
 - Bash
@@ -19,5 +19,5 @@ I'm pocketlinux32, a random hobbyist programmer, and a student.
 
 # Social Media
 These are my social media handles. I'm usually available.
-Twitter: pocketlinux32
-Discord: pocketlinux32#6632
+- **Twitter**: pocketlinux32
+- **Discord**: pocketlinux32#6632
