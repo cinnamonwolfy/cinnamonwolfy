@@ -9,7 +9,7 @@ I'm **pocketlinux32**, a random hobbyist programmer, and a high school student.
 - Bash
 - TI-BASIC
 - QBasic (first one I learnt)
-- Z80 Assembly
+- Z80 Assembler
 
 # Hobbies (apart from programming)
 
