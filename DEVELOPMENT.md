@@ -14,7 +14,11 @@ I try to keep the same toolchain across all of my computers
 - Ncurses 6.2
 - pl32lib (common routines/boilerplate used in my programs)
 
-## Main PC
+## Computers/Equipment
+
+As stated at the top, I have multiple systems that all differ from each other. Specs of all of them are down below
+
+### Main PC
 
 - CPU: AMD Phenom II X2 (Don't remember freq or model number...)
 - RAM: 6GB DDR2
@@ -22,7 +26,7 @@ I try to keep the same toolchain across all of my computers
 - Storage: 500GB 5400RPM HDD
 - OS: Linux Mint 20.2
 
-## Main Laptop
+### Main Laptop
 
 - CPU: AMD Ryzen 5 2500U
 - RAM: 32GB DDR4
@@ -30,7 +34,7 @@ I try to keep the same toolchain across all of my computers
 - Storage: 128GB M.2 NVME SSD + 500GB SATA III SSD
 - OS: Linux Mint 20.2
 
-## Secondary Laptop
+### Secondary Laptop
 
 - CPU: Intel Pentium P6100
 - RAM: 4GB DDR2
@@ -38,15 +42,15 @@ I try to keep the same toolchain across all of my computers
 - Storage: 256GB SSD
 - OS: Ubuntu 20.04
 
-## Ubuntu Tablet
+### Ubuntu Tablet
 
-- CPU: Intel Atom X5 8350
+- CPU: Intel Atom X5-Z8300
 - RAM: 2GB LPDDR3
 - GPU: Intel HD Graphics of some kind
 - Storage: 32GB eMMC Flash
 - OS: Ubuntu 21.10
 
-## Arduino Flasher
+### Arduino Flasher
 
 - CPU: Intel Atom N270
 - RAM: 2GB DDR2
