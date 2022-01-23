@@ -12,7 +12,7 @@ I try to keep the same toolchain across all of my computers
 - SDL 2
 - SFML 2
 - Ncurses 6.2
-- pl32lib (common routines/boilerplate used in my programs)
+- [pl32lib](https://github.com/pocketlinux32/pl32lib) (common routines/boilerplate used in my programs)
 
 ## Computers/Equipment
 
@@ -20,7 +20,7 @@ As stated at the top, I have multiple systems that all differ from each other. S
 
 ### Main PC
 
-- CPU: AMD Phenom II X2 (Don't remember freq or model number...)
+- CPU: AMD Phenom II X2 (Some AM2+ chip, I don't remember the model number or frequency)
 - RAM: 6GB DDR2
 - GPU: AMD Radeon HD 7570
 - Storage: 500GB 5400RPM HDD
@@ -31,7 +31,7 @@ As stated at the top, I have multiple systems that all differ from each other. S
 - CPU: AMD Ryzen 5 2500U
 - RAM: 32GB DDR4
 - GPU: AMD Vega 8
-- Storage: 128GB M.2 NVME SSD + 500GB SATA III SSD
+- Storage: 128GB M.2 NVME SSD + 500GB SATA III 7200RPM HDD
 - OS: Linux Mint 20.2
 
 ### Secondary Laptop
