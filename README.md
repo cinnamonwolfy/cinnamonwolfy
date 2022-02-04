@@ -27,5 +27,5 @@ These are my social media handles. I'm usually available.
 
 # More documents to read
 
-- [DEVELOPMENT.md](https://github.com/pocketlinux32/pocketlinux32/blob/main/DEVELOPMENT.md) - If you're wondering
+- [DEVEL.md](https://github.com/pocketlinux32/pocketlinux32/blob/main/DEVEL.md) - If you're wondering
 what toolchain and systems (yes, several) I use, read this document.
