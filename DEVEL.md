@@ -5,8 +5,8 @@ I try to keep the same toolchain across all of my computers
 
 ## General Toolchain
 
-- Compiler: GCC 8-10
-- C/C++ Library: GLibC >2.20
+- Compiler: GCC 8-11
+- C/C++ Library: GLibC >2.30
 
 ### Other Libraries
 - SDL 2
@@ -21,9 +21,9 @@ As stated at the top, I have multiple systems that all differ from each other. S
 ### Main PC
 
 - CPU: AMD Phenom II X2 (Some AM2+ chip, I don't remember the model number or frequency)
-- RAM: 6GB DDR2
+- RAM: 7GB DDR2
 - GPU: AMD Radeon HD 7570
-- Storage: 500GB 5400RPM HDD
+- Storage: 500GB 5400RPM HDD + 320GB 5400RPM HDD
 - OS: Linux Mint 20.2
 
 ### Main Laptop
@@ -40,11 +40,11 @@ As stated at the top, I have multiple systems that all differ from each other. S
 - RAM: 4GB DDR2
 - GPU: Intel GMA 945M
 - Storage: 256GB SSD
-- OS: Ubuntu 20.04
+- OS: Fedora 35 Workstation
 
 ### Ubuntu Tablet
 
-- CPU: Intel Atom X5-Z8300
+- CPU: Intel Atom X5-Z8350
 - RAM: 2GB LPDDR3
 - GPU: Intel HD Graphics of some kind
 - Storage: 32GB eMMC Flash
@@ -56,4 +56,4 @@ As stated at the top, I have multiple systems that all differ from each other. S
 - RAM: 2GB DDR2
 - GPU: Yet another Intel GMA
 - Storage: 250 5400RPM HDD
-- OS: Debian 9
+- OS: Debian 11
