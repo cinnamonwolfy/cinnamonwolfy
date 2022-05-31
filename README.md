@@ -18,13 +18,6 @@ I'm **pocketlinux32**, a hobbyist programmer.
 - Watching YT videos (mostly the short ones)
 - Drawing (mostly for hobby games)
 
-# Social Media
-
-These are my social media handles. I'm usually available.
-
-- **Twitter**: pocketlinux32
-- **Discord**: pocketlinux32#6632
-
 # More documents to read
 
 - [DEVEL.md](https://github.com/pocketlinux32/pocketlinux32/blob/main/DEVEL.md)- If you're wondering
