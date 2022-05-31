@@ -1,6 +1,6 @@
 # Hello, there!
 
-I'm **pocketlinux32**, a programming student.
+I'm **pocketlinux32**, a hobbyist programmer.
 
 # Langs
 
