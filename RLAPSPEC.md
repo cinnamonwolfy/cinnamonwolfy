@@ -1,5 +1,5 @@
 # Remote Login Authentication Protocol 1.0 Specifications
-## by Sophie Rolong-Olivo (pocketlinux32)
+## by pocketlinux32
 
 ## Introduction
 
