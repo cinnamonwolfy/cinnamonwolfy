@@ -28,8 +28,7 @@ more stuff to read ^w^
 ######################
 
 * devel.rst_ list of all of the systems i use for programming :3
-* rlap.rst_: the rlap spec i wrote a while back (i really need to write an
-update to it)
+* rlap.rst_: the rlap spec i wrote a while back (i really need to write an update to it)
 
 
 .. _devel.rst: devel.rst
