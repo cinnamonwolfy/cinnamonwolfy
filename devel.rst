@@ -53,3 +53,5 @@ arduino flasher/server terminal
 * gpu: intel gma 450
 * storage: 120gb sata3 ssd
 * os: debian 11.5, eventually will be arch linux
+
+.. _pl32lib-ng: https://github.com/pocketlinux32/pl32lib-ng
