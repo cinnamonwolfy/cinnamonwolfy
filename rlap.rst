@@ -6,7 +6,7 @@ by pocketlinux32
 ----------------
 
 Introduction
-============
+------------
 
 The Remote Login Authentication Protocol is an authentication protocol used to
 authenticate a user over the network using a text file as a database,
@@ -17,7 +17,7 @@ that are yet to be authenticated, and the server authenticates whatever
 credentials it receives.
 
 Packet Layout
-=============
+-------------
 
 A valid RLAP packet always start with ``RLAP`` followed by the role of the
 system (``SERVER`` or ``CLIENT``) and the version number of the protocol
@@ -27,7 +27,7 @@ After the header, the packet would contain any of the following: a protocol
 command or a data stream.
 
 Protocol Commands
------------------
+=================
 
 Protocol commands are commands that are used in RLAP to control the start and
 end of a connection or a data stream. Here is a list of valid commands in RLAP:
@@ -38,7 +38,7 @@ end of a connection or a data stream. Here is a list of valid commands in RLAP:
 * ``RLAP_ENDLIST``
 
 Data Streams
-------------
+============
 
 A data stream is a block of data sent by either the server or the client. Its
 contents depend on which system sent it (server or client). A client would send
@@ -66,7 +66,7 @@ Here's an example:
 
 
 Example RLAP Packets
-====================
+--------------------
 
 (Client)::
 
