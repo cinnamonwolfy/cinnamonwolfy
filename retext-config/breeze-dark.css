@@ -1,0 +1,20 @@
+body {
+	background: #232629;
+}
+
+pre.code {
+	background: #000000;
+	overflow: scroll;
+}
+
+* {
+	color: #eff0f1;
+}
+
+a, a * {
+	color: #2980b9;
+}
+
+a {
+	text-decoration: none;
+}
