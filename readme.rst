@@ -22,7 +22,7 @@ other hobbies owo
 * play video games (mostly minecraft xbox 360 edition :3)
 * watching yt videos (mostly long form ones :3)
 * drawing (for possible game ideas and new pfp images :3)
-* being with my gf (ilysssm @raisinware <3 <3)
+* being with my gf (ilysssm [@raisinware](https://github.com/raisinware) <3 <3)
 
 more stuff to read ^w^
 ######################
