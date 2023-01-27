@@ -29,8 +29,10 @@ more stuff to read ^w^
 
 * devel.rst_ list of all of the systems i use for programming :3
 * rlap.rst_: the rlap spec i wrote a while back (i really need to write an update to it)
+* plml.rst_: the standard doc for the portalinux markup language :3
 
 
 .. _devel.rst: devel.rst
 .. _rlap.rst: rlap.rst
+.. _plml.rst: plml.rst
 .. _`@raisinware`: https://github.com/raisinware
