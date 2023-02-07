@@ -2,9 +2,8 @@
 The PortaLinux Markup Language
 ******************************
 
-=================
 by: pocketlinux32
-=================
+-----------------
 
 
 The PortaLinux Markup Language, PLML for short, is a simple markup language
