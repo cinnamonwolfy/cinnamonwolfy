@@ -1,5 +1,5 @@
 ********************************************
-The Embedded Standard Base 1.0 Second Draft
+The Embedded Standard Base 1.0 Final Draft
 ********************************************
 
 by pocketlinux32
@@ -69,6 +69,7 @@ Shell Programming Utilities
 
 - ``expr``
 - ``sh``
+- ``sleep``
 
 Archival Utilities
 ##################
@@ -95,14 +96,13 @@ Shell Builtins
 ==============
 
 - ``cd``
-- ``read``
-- ``printf`` (Can be external)
+- ``command``
 - ``echo`` (Can be external)
 - ``false`` (Can be external)
-- ``true`` (Can be external)
+- ``printf`` (Can be external)
+- ``read``
 - ``test`` (Can be external)
-- ``sleep`` (Can be external)
-- ``command``
+- ``true`` (Can be external)
 
 Base System API
 ---------------
