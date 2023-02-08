@@ -1,5 +1,5 @@
 ********************************************
-The Embedded Standard Base 1.0 First Draft
+The Embedded Standard Base 1.0 Second Draft
 ********************************************
 
 by pocketlinux32
@@ -8,74 +8,100 @@ by pocketlinux32
 The Embedded Standard Base is a standard meant to standardize POSIX-compatible embedded systems, mainly Linux- and BSD-based embedded systems. It can also be used as a replacement to LSB.
 
 Base Commands
-=============
+-------------
 
 Here are a list of commands that have to be part of any ESB-compliant system:
 
 External Commands
-#################
+=================
 
-- ``basename`` (Filesystem)
-- ``cat`` (Filesystem)
-- ``chgrp`` (Filesystem)
-- ``chmod`` (Filesystem)
-- ``chown`` (Filesystem)
-- ``cp`` (Filesystem)
-- ``cpio`` (Archival Utilities)
-- ``cut`` (Text Processing)
-- ``date`` (Misc.)
-- ``dd`` (Filesystem)
-- ``df`` (Filesystem)
-- ``diff`` (Text Processing)
-- ``dirname`` (Filesystem)
-- ``du`` (Filesystem)
-- ``env`` (Misc.)
-- ``expr`` (Shell Programming)
-- ``file`` (Filesystem)
-- ``find`` (Filesystem)
-- ``grep`` (Misc.)
-- ``gzip`` (Archival Utilities)
-- ``head`` (Text Processing)
-- ``id`` (Misc.)
-- ``init`` (System Initialization)
-- ``kill`` (Process Management)
-- ``less`` (Text Processing)
-- ``link`` (Filesystem)
-- ``ln`` (Filesystem)
-- ``ls`` (Filesystem)
-- ``mkdir`` (Filesystem)
-- ``mkfifo`` (Filesystem)
-- ``mv`` (Filesystem)
-- ``pathchk`` (Filesystem)
-- ``ps`` (Process Management)
-- ``pwd`` (Filesystem)
-- ``rm`` (Filesystem)
-- ``rmdir`` (Filesystem)
-- ``sed`` (Text Processing)
-- ``sh`` (Shell Programming)
-- ``tail`` (Text Processing)
-- ``tee`` (Text Processing)
-- ``time`` (Process Management)
-- ``touch`` (Filesystem)
-- ``tr`` (Text Processing)
-- ``tty`` (Misc.)
-- ``uname`` (Misc.)
-- ``uniq`` (Text Processing)
-- ``unlink`` (Filesystem)
-- ``wc`` (Text Processing)
-- ``who`` (System Administration)
+Filesystem Utilities
+####################
+
+- ``basename``
+- ``cat``
+- ``chgrp``
+- ``chmod``
+- ``chown``
+- ``cp``
+- ``dd``
+- ``df``
+- ``du``
+- ``dirname``
+- ``file``
+- ``find``
+- ``link``
+- ``ln``
+- ``ls``
+- ``mkdir``
+- ``mkfifo``
+- ``mv``
+- ``pathchk``
+- ``pwd``
+- ``rm``
+- ``rmdir``
+- ``touch``
+- ``unlink``
+
+Text Processing Utilities
+#########################
+
+- ``cut``
+- ``diff``
+- ``head``
+- ``less``
+- ``sed``
+- ``tail``
+- ``tee``
+- ``tr``
+- ``uniq``
+- ``wc``
+
+Process Management Utilities
+############################
+
+- ``kill``
+- ``ps``
+- ``time``
+
+Shell Programming Utilities
+###########################
+
+- ``expr``
+- ``sh``
+
+Archival Utilities
+##################
+
+- ``cpio``
+- ``gzip``
+
+System Administration Utilities
+###############################
+- ``init``
+- ``who``
+
+Miscellaneous Utilities
+#######################
+
+- ``date``
+- ``env``
+- ``grep``
+- ``id``
+- ``tty``
+- ``uname``
 
 Shell Builtins
-##############
+==============
 
 - ``cd``
 - ``read``
-- ``printf``
-- ``echo``
-- ``false``
-- ``true``
-- ``test``
-- ``sleep``
+- ``printf`` (Can be external)
+- ``echo`` (Can be external)
+- ``false`` (Can be external)
+- ``true`` (Can be external)
+- ``test`` (Can be external)
+- ``sleep`` (Can be external)
 - ``command``
 
 Base System API
@@ -85,9 +111,9 @@ The base system API of any ESB-compliant or ESB-compatible system is as follows:
 
 - A C99- and POSIX-compatible C library
 - The base pl32lib API
-- The plml API
+- The plml API (Optional)
 
-Simply put, any ESB-compliant/compatible system must have a C99- and POSIX-compatible libc, pl32lib and libplml.
+Simply put, any ESB-compliant/compatible system must have a C99- and POSIX-compatible libc, pl32lib and, optionally, libplml.
 
 Root Filesystem Hierarchy
 -------------------------
