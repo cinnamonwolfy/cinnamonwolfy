@@ -1,5 +1,5 @@
 ********************************************
-The Embedded Standard Base 1.0 Final Draft
+The Embedded Standard Base 1.0 Specification
 ********************************************
 
 by pocketlinux32
@@ -131,7 +131,9 @@ The root filesystem of any ESB is structured as such:
         - ``home``: This is where interactive user accounts store all of their local files.
     - ``bin``: All external program/utilities are installed here, such as HTTP, SSH and display servers.
     - ``lib``: All external libraries are installed here, such as graphics libraries like Mesa/OpenGL
-    - ``etc`` or ``share``: Contains the configuration and miscellaneous files for all the external programs.
+    - ``etc``: Contains the configuration files for all the external programs.
+    - ``share``: Contains miscellaneous files for all the external programs.
     - ``var``: This where other miscellaneous information for external programs will be stored. This is mostly used for files that change very often
+- ``/dev``: Device nodes are created here.
 - ``/run``: Usually a ramdisk mountpoint. It is used as a secondary ``/tmp`` folder, usually for programs that will need to write a lot of data very quickly and often.
 - ``/etc``, ``/lib``, ``/var``, ``/bin``, ``/sbin``: These are all symbolic links for both FHS and kernel compatibility. For the kernel to even boot up the base system, ``/sbin`` and ``/etc`` must be at the root of the filesystem. While everything else is not necessary, it increases compatibility with FHS and thus makes it so more software can run with fewer modifications to the code
