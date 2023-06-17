@@ -29,7 +29,7 @@ The PLML syntax only has three types of tokens:
     - Example (``float``: ``variable = 123.456``
     - Example (``array``): ``variable = [ 123, 1999, 6502 ]`` or ``variable = [ 123.456, 23.45, 1.25 ]`` or ``[ "string1", 'string2', "string3 ]``
 	- PLML arrays, just like TOML arrays, do not allow for multiple data types to be stored in an array
-        - pl32lib-ng's PLML implementation is a parser quirk of PLML arrays being arrays of parsed PLML tokens, therefore allowing for multiple data types per array. This is an extension and not standard-compliant
+        - pl32lib-ng's PLML implementation allows this due to a parser quirk of PLML arrays being arrays of parsed PLML tokens, therefore allowing for multiple data types per array. This is a bug, not a feature or an extension
 - Comment: Starts with ``#`` and anything past that character gets ignored by the parser
     - Example: ``name = 123 # This will get ignored by the parser :3``
 
