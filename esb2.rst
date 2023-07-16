@@ -126,11 +126,13 @@ The base system API of any ESB-compliant or ESB-compatible system is as follows:
 - The PortaLinux Runtime API
 	- Memory Tracker
 		- ``plMTInit``
+		- ``plMTStop``
+		- ``plMTMemAmnt``
 		- ``plMTAlloc``
 		- ``plMTAllocE``
 		- ``plMTCalloc``
 		- ``plMTRealloc``
-		- ``plMTStop``
+		- ``plMTFree``
 	- Array Operations
 		- ``plArrayCreate``
 		- ``plArrayFree``
