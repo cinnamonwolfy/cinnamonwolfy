@@ -117,12 +117,12 @@ The base system API of any ESB-compliant or ESB-compatible system is as follows:
 	- ``write``
 	- ``exit``
 	- ``mmap``
+	- ``munmap``
 	- ``lseek``
-	- ``posix_spawn``
 	- ``link``
 	- ``unlink``
+	- ``vfork``
 	- ``fork`` (optional)
-	- ``vfork`` (optional)
 - The PortaLinux Runtime API
 	- Memory Tracker
 		- ``plMTInit``
