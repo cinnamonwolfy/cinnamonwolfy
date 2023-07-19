@@ -129,8 +129,6 @@ The base system API of any ESB-compliant or ESB-compatible system is as follows:
 		- ``plMTStop``
 		- ``plMTMemAmnt``
 		- ``plMTAlloc``
-		- ``plMTAllocE``
-		- ``plMTCalloc``
 		- ``plMTRealloc``
 		- ``plMTFree``
 	- Array Operations
