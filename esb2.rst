@@ -120,7 +120,9 @@ The base system API of any ESB-compliant or ESB-compatible system is as follows:
 	- ``munmap``
 	- ``lseek``
 	- ``link``
+	- ``symlink``
 	- ``unlink``
+	- ``stat``
 	- ``vfork``
 	- ``fork`` (optional)
 - The PortaLinux Runtime API
@@ -143,8 +145,8 @@ The base system API of any ESB-compliant or ESB-compatible system is as follows:
 		- ``plUStrtok``
 	- File Operations
 		- ``plFOpen``
-		- ``plFClose``
 		- ``plFOpenFD``
+		- ``plFClose``
 		- ``plFRead``
 		- ``plFWrite``
 		- ``plFPuts``
