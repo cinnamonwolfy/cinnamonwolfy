@@ -110,7 +110,7 @@ Base System API
 
 The base system API of any ESB-compliant or ESB-compatible system is as follows:
 
-- PortaLinux POSIX API Subset
+- POSIX API Subset
 	- ``open``
 	- ``close``
 	- ``read``
