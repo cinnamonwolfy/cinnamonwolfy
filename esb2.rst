@@ -159,7 +159,7 @@ The base system API of any ESB-compliant or ESB-compatible system is as follows:
 		- ``plMLParse``
 		- ``plMLParseFile``
 
-Simply put, any ESB-compliant/compatible system must support the PortaLinux POSIX API Subset and the PortaLinux Runtime API.
+Simply put, any ESB-compliant/compatible system must support the ESB POSIX API Subset and the PortaLinux Runtime API.
 
 Root Filesystem Hierarchy
 -------------------------
