@@ -123,9 +123,17 @@ The base system API of any ESB-compliant or ESB-compatible system is as follows:
 	- ``symlink``
 	- ``unlink``
 	- ``stat``
+	- ``mkdir``
+	- ``chown``
+	- ``chmod``
+	- ``chdir``
+	- ``getcwd``
 	- ``vfork``
 	- ``fork`` (optional)
 - The PortaLinux Runtime API
+	- Error Handling
+		- ``plRTErrorString``
+		- ``plRTPanic``
 	- Memory Tracker
 		- ``plMTInit``
 		- ``plMTStop``
