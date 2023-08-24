@@ -153,7 +153,7 @@ The base system API of any ESB-compliant or ESB-compatible system is as follows:
 		- ``plUStrtok``
 	- File Operations
 		- ``plFOpen``
-		- ``plFOpenFD``
+		- ``plFOpenFD`` or ``plFToP`` (Depending on whether the C standard library is there or not)
 		- ``plFClose``
 		- ``plFRead``
 		- ``plFWrite``

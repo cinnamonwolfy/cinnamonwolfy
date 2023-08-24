@@ -22,7 +22,7 @@ other hobbies owo
 * play video games (mostly minecraft xbox 360 edition :3)
 * watching yt videos (mostly long form ones :3)
 * drawing (for possible game ideas and new pfp images :3)
-* being with my gf (ilysssm `@raisinware`_ <3 <3)
+* being with my gfs (ilysssm `@raisinware`_ and `@maddiemewmews`_ <3 <3)
 
 more stuff to read ^w^
 ######################
@@ -38,3 +38,4 @@ more stuff to read ^w^
 .. _plml.rst: plml.rst
 .. _esb.rst: esb.rst
 .. _`@raisinware`: https://github.com/raisinware
+.. _`@maddiemewmews`: https://github.com/maddiemewmews
