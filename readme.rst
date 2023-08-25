@@ -27,16 +27,16 @@ other hobbies owo
 more stuff to read ^w^
 ######################
 
-* devel.rst_ list of all of the systems i use for programming :3
+* devel.rst_: list of all of the systems i use for programming :3
 * rlap.rst_: the rlap spec i wrote a while back (i really need to write an update to it)
 * plml.rst_: the standard doc for the portalinux markup language :3
 * esb.rst_: the esb 1.0 specification doc :3
-* code-of-conduct.rst_: the portalinux project's code of conduct :3
+* conduct.rst_: the portalinux project's code of conduct :3
 
 .. _devel.rst: devel.rst
 .. _rlap.rst: rlap.rst
 .. _plml.rst: plml.rst
 .. _esb.rst: esb.rst
-.. _code-of-conduct.rst: code-of-conduct.rst
+.. _conduct.rst: conduct.rst
 .. _`@raisinware`: https://github.com/raisinware
 .. _`@maddiemewmews`: https://github.com/maddiemewmews
