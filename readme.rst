@@ -31,7 +31,7 @@ more stuff to read ^w^
 * rlap.rst_: the rlap spec i wrote a while back (i really need to write an update to it)
 * plml.rst_: the standard doc for the portalinux markup language :3
 * esb.rst_: the esb 1.0 specification doc :3
-
+* code-of-conduct.rst_: the portalinux project's code of conduct :3
 
 .. _devel.rst: devel.rst
 .. _rlap.rst: rlap.rst
