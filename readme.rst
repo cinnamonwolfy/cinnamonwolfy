@@ -37,5 +37,6 @@ more stuff to read ^w^
 .. _rlap.rst: rlap.rst
 .. _plml.rst: plml.rst
 .. _esb.rst: esb.rst
+.. _code-of-conduct.rst: code-of-conduct.rst
 .. _`@raisinware`: https://github.com/raisinware
 .. _`@maddiemewmews`: https://github.com/maddiemewmews
