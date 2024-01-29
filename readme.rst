@@ -2,7 +2,7 @@
 hiiiiiii!!!!!
 *************
 
-i'm pocketlinux32, a hobbyist c/c++ programmer and a computer programming
+i'm cinnamonwolfy, a hobbyist c/c++ programmer and a computer programming
 student based in midwestern u.s. i'm also a trans wolfgirl, awoo~~ >w<
 
 languages uwu
