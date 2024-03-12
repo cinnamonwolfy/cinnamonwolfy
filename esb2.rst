@@ -2,7 +2,7 @@
 The Embedded Standard Base 2.0 Draft
 ********************************************
 
-by pocketlinux32
+by CinnamonWolfy
 ----------------
 
 The Embedded Standard Base is a standard meant to standardize POSIX-compatible embedded systems, mainly Linux- and BSD-based
