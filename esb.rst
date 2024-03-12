@@ -2,7 +2,7 @@
 The Embedded Standard Base 1.0 Specification
 ********************************************
 
-by pocketlinux32
+by CinnamonWolfy
 ----------------
 
 The Embedded Standard Base is a standard meant to standardize POSIX-compatible embedded systems, mainly Linux- and BSD-based embedded systems. It can also be used as a replacement to LSB.
