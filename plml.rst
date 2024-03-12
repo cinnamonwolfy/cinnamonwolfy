@@ -2,7 +2,7 @@
 The PortaLinux Markup Language 1.1
 **********************************
 
-by: pocketlinux32
+by: CinnamonWolfy
 -----------------
 
 
