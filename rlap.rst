@@ -2,7 +2,7 @@
 Remote Login Authentication Protocol 1.0 Specification
 ******************************************************
 
-by pocketlinux32
+by CinnamonWolfy
 ----------------
 
 Introduction
