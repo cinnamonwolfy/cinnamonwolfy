@@ -9,8 +9,10 @@ languages uwu
 #############
 
 * c/c++ (i'm the best at this one :3)
+* ruby (second-best at this one :3)
 * python
 * javascript
+* html/css (usually with javascript code)
 * bash
 * ti-basic (i love messing around with calculators :3)
 * z80 assembler (i love messing around with calculators a lot >w<)
