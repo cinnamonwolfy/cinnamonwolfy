@@ -3,7 +3,7 @@ hiiiiiii!!!!!
 *************
 
 i'm cinnamonwolfy, a hobbyist c/c++ programmer and a computer programming
-student based in midwestern u.s. i'm also a trans wolfgirl, awoo~~ >w<
+student based in midwestern u.s. i'm also a wolfgirl, awoo~~ >w<
 
 languages uwu
 #############
